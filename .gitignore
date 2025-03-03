@@ -1,0 +1,6 @@
+backup
+node_modules
+tmp
+.DS_Store
+README.fr.md
+02-prompts

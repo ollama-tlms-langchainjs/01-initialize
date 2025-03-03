@@ -1,0 +1,9 @@
+{
+  "name": "first-steps",
+  "type": "module",
+  "dependencies": {
+    "@langchain/ollama": "^0.1.4",
+    "dotenv": "^16.4.7",
+    "langchain": "^0.3.12"
+  }
+}
